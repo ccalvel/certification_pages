@@ -99,7 +99,10 @@ a:hover{
 }
 
 /*CONTAINERS*/
-
+all{
+    position: absolute;
+    top:100px;
+}
 .container {
 
     display: grid;
